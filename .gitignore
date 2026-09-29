@@ -1,0 +1,15 @@
+# This repository intentionally publishes documentation and screenshots only.
+# Put compiled downloads in GitHub Releases. Keep the game project elsewhere.
+*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/LICENSE
+!/THIRD_PARTY_NOTICES.md
+!/RELEASE_NOTES.md
+!/LICENSES/
+!/LICENSES/*.txt
+!/screenshots/
+!/screenshots/harbor.png
+!/screenshots/neighborhood.png
+!/screenshots/gardens.png

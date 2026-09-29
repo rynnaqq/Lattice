@@ -1,0 +1,56 @@
+Lattice of the Last Light Binary and Media License, Version 1.0
+
+Copyright (c) 2026 rynnaqq. All rights reserved.
+
+1. Covered Materials
+
+This license applies to the compiled Lattice of the Last Light game, its original
+gameplay, writing, characters, artwork, music, sound design, screenshots, and other
+project-specific materials made available in this repository or its releases
+(collectively, the "Covered Materials"). It does not apply to the third-party
+components identified in THIRD_PARTY_NOTICES.md, which remain under their respective
+licenses.
+
+2. Personal-use license
+
+You may download, install, and use the official compiled release for personal,
+non-commercial play. You may make ordinary screenshots or recordings of your own
+gameplay and share or stream them, provided that you do not present the game or its
+content as your own work.
+
+3. Restrictions
+
+Except where applicable law expressly permits otherwise, you may not:
+
+- copy, upload, mirror, sell, sublicense, or redistribute the game or its compiled
+  release files;
+- extract, copy, modify, republish, sell, or use the game's artwork, animation,
+  audio, music, dialogue, characters, maps, or other assets separately from normal
+  gameplay;
+- reverse engineer, decompile, or otherwise attempt to reconstruct the source code
+  or private project files; or
+- use the Covered Materials for a commercial product or service without prior
+  written permission from the copyright holder.
+
+Linking to the official GitHub repository or its official release page is allowed.
+
+4. Third-party materials
+
+Third-party materials are excluded from the Covered Materials. Their original
+licenses control your rights to them. Nothing in this license limits permissions
+granted by those licenses.
+
+5. Termination
+
+This license ends automatically if you violate its terms. Upon termination, you
+must stop using and delete copies of the Covered Materials in your possession.
+
+6. No warranty
+
+THE COVERED MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT
+HOLDER IS NOT LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE
+COVERED MATERIALS OR THEIR USE.
+
+No rights are granted except those stated above.

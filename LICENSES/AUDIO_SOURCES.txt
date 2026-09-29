@@ -1,0 +1,39 @@
+Lattice of the Last Light - sound sources
+
+New compositions, arrangements and sound composites were produced for this game.
+The 2026-09-28 spell revision includes AI-generated CC0 source audio:
+SFXMint - magic-scifi-spell-11, 15, 31 and 34 (Stable Audio 3)
+https://sfxmint.com/license
+https://sfxmint.com/sounds/magic-scifi-spell-11
+https://sfxmint.com/sounds/magic-scifi-spell-15
+https://sfxmint.com/sounds/magic-scifi-spell-31
+https://sfxmint.com/sounds/magic-scifi-spell-34
+
+qubodup - Earth Element Magic Spell (processed boiling-water recording, CC0)
+https://opengameart.org/content/earth-element-magic-spell
+
+Casting voice provenance: assets/audio/CASTING_VOICE.md in the source project.
+
+The following source recordings are distributed under Creative Commons CC0 1.0:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Kenney - Impact Sounds and RPG Sounds
+https://kenney.nl/assets/impact-sounds
+https://opengameart.org/content/50-rpg-sound-effects
+See KENNEY_IMPACT_CC0.txt and KENNEY_RPG_CC0.txt for original pack notices.
+
+Versilian Studios and community contributors - VCSL and VSCO 2 Community Edition
+https://github.com/sgossner/VCSL
+https://github.com/sgossner/VSCO-2-CE
+Harp, flute, cello, glockenspiel, timpani and tambourine samples.
+
+TinyWorlds - Forest Ambience
+https://opengameart.org/content/forest-ambience
+Field ambience, transformed and layered into the district soundscapes.
+
+Exact source URLs, revision pins and SHA-256 hashes:
+assets/audio/sfx_manifest.json, assets/audio/score_manifest.json,
+and assets/audio/SCORE_SOURCES.md in the source project.
+
+Hades was a design reference for layered combat clarity. Fantasy anime inspired
+spell anticipation and impact structure. No recordings were extracted from them.
