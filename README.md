@@ -10,12 +10,14 @@ Play as Nara and follow a repeating fault from Tideglass Harbor to the heart of 
 
 | Platform | Release | Install |
 |---|---|---|
-| Windows x86-64 | [Lattice v1.0.0 for Windows](https://github.com/rynnaqq/Lattice/releases/download/v1.0.0/Lattice-v1.0.0-windows-x86_64.zip) | Extract the ZIP, then run `Lattice.exe`. Keep the extracted files together. |
-| Android 7.0+ ARM64 | [Lattice v1.0.0 for Android](https://github.com/rynnaqq/Lattice/releases/download/v1.0.0/Lattice-v1.0.0-android-arm64.apk) | Download the APK, allow installation from your browser or file manager when Android asks, then install it. |
+| Windows x86-64 | [Lattice v1.0.2 for Windows](https://github.com/rynnaqq/Lattice/releases/download/v1.0.2/Lattice-v1.0.2-windows-x86_64.zip) | Extract the ZIP, then run `Lattice.exe`. Keep the extracted files together. |
+| Android 7.0+ ARM64 | [Lattice v1.0.2 for Android](https://github.com/rynnaqq/Lattice/releases/download/v1.0.2/Lattice-v1.0.2-android-arm64.apk) | Download the APK, allow installation from your browser or file manager when Android asks, then install it. |
+
+The game now starts fullscreen. Text and interface elements render at your display's resolution, so they stay sharp on any screen size.
 
 The Windows executable is currently unsigned, so Windows may show a SmartScreen warning. Android identifies direct APK downloads as apps from outside the Play Store. Download releases only from this repository.
 
-The Android APK's release signature and package checks passed. It has not yet been tested on a physical Android device; device performance and compatibility remain unverified. [Release notes and checksums](https://github.com/rynnaqq/Lattice/releases/tag/v1.0.0).
+The Android APK's release signature and package checks passed. It has not yet been tested on a physical Android device; device performance and compatibility remain unverified. [Release notes and checksums](https://github.com/rynnaqq/Lattice/releases/tag/v1.0.2).
 
 This repository distributes compiled builds and public release information. The game source, raw art, and project files are private.
 
